@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-The Pathfinding Visualizer is a tool I created to visualize pathfinding algorithms in action. My fascination with these algorithms led me to develop this application, and I hope that you enjoy exploring and experimenting with it as much as I enjoyed creating it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Pathfinding-Visualizer/
+The Pathfinding Visualizer is a tool I created to visualize pathfinding algorithms in action. My fascination with these algorithms led me to develop this application, and I hope that you enjoy exploring and experimenting with it as much as I enjoyed creating it. You can access it here (use Google Chrome!): 
 
 ## Meet the Algorithms
 
