@@ -6,14 +6,14 @@ The Pathfinding Visualizer is a tool I created to visualize pathfinding algorith
 
 Pathfinding Visualizer is an application that allows users to visualize various pathfinding algorithms in action.
 The following algorithms are supported:
-Dijkstra's Algorithm (weighted)
-A* Search (weighted)
-Greedy Best-first Search (weighted)
-Swarm Algorithm (weighted)
-Convergent Swarm Algorithm (weighted)
-Bidirectional Swarm Algorithm (weighted)
-Breath-first Search (unweighted)
-Depth-first Search (unweighted)
+  *Dijkstra's Algorithm (weighted)
+  *A* Search (weighted)
+  *Greedy Best-first Search (weighted)
+  *Swarm Algorithm (weighted)
+  *Convergent Swarm Algorithm (weighted)
+  *Bidirectional Swarm Algorithm (weighted)
+  *Breath-first Search (unweighted)
+  *Depth-first Search (unweighted)
 Additionally, the application includes a Recursive Division Maze Generation algorithm.
 Dijkstra's Algorithm is known as the "father" of pathfinding algorithms and guarantees the shortest path.
 A* Search uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
