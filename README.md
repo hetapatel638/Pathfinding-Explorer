@@ -15,7 +15,7 @@ The following algorithms are supported:
   * Breath-first Search (unweighted)
   * Depth-first Search (unweighted)
 
-## Additionally, the application includes a Recursive Division Maze Generation algorithm.
+## Additionally, 
 * Dijkstra's Algorithm is known as the "father" of pathfinding algorithms and guarantees the shortest path.
 * A* Search uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
 * Greedy Best-first Search is a faster, more heuristic-heavy version of A* but does not guarantee the shortest path.
