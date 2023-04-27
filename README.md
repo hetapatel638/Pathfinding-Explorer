@@ -14,14 +14,15 @@ The following algorithms are supported:
   * Bidirectional Swarm Algorithm (weighted)
   * Breath-first Search (unweighted)
   * Depth-first Search (unweighted)
-Additionally, the application includes a Recursive Division Maze Generation algorithm.
-Dijkstra's Algorithm is known as the "father" of pathfinding algorithms and guarantees the shortest path.
-A* Search uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
-Greedy Best-first Search is a faster, more heuristic-heavy version of A* but does not guarantee the shortest path.
-The Swarm Algorithm is a mixture of Dijkstra's Algorithm and A* Search and does not guarantee the shortest path.
-The Convergent Swarm Algorithm is a faster, more heuristic-heavy version of Swarm and does not guarantee the shortest path.
-The Bidirectional Swarm Algorithm explores Swarm from both sides and does not guarantee the shortest path.
-Breath-first Search is a great algorithm that guarantees the shortest path.
-Depth-first Search is a poor algorithm for pathfinding and does not guarantee the shortest path.
+
+## Additionally, the application includes a Recursive Division Maze Generation algorithm.
+* Dijkstra's Algorithm is known as the "father" of pathfinding algorithms and guarantees the shortest path.
+* A* Search uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm.
+* Greedy Best-first Search is a faster, more heuristic-heavy version of A* but does not guarantee the shortest path.
+* The Swarm Algorithm is a mixture of Dijkstra's Algorithm and A* Search and does not guarantee the shortest path.
+* The Convergent Swarm Algorithm is a faster, more heuristic-heavy version of Swarm and does not guarantee the shortest path.
+* The Bidirectional Swarm Algorithm explores Swarm from both sides and does not guarantee the shortest path.
+* Breath-first Search is a great algorithm that guarantees the shortest path.
+* Depth-first Search is a poor algorithm for pathfinding and does not guarantee the shortest path.
 
 
